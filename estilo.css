@@ -1,0 +1,57 @@
+body {
+        font-family: 'Source Sans Pro', sans-serif;
+}
+
+#nav-fundo {
+    background: #1f1f1f;
+}
+
+#nav-principal ul li {
+    padding: 0px 5px;
+}
+
+#nav-principal ul li a{
+    font-size: large;
+    color: white;
+}
+
+#nav-principal ul li a:hover{
+    color: #576dc0;
+    transition: color 0.4s;
+}
+
+
+#home {
+    background: #1f1f1f;
+}
+
+#home h1, h3 {
+    color: white;
+}
+
+#home .break { 
+    width: 200px;
+    height: 6px;
+    background-color: #cdf7f4;
+}
+
+#home .nav .nav-item .nav-link{
+    color: white;
+}
+
+#home .nav .nav-item .nav-link:hover {
+    border-radius: 10px;
+    color: #576dc0;
+    transition: color 0.4s;
+}
+
+#habilidades{
+    color: black;
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#projeto{
+    color: black;
+    padding: 60px 0;
+}
